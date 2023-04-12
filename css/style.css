@@ -1,3 +1,11 @@
+.welkom {
+    background-image: url(../img/Meteor.svg);
+}
+
 .logo {
-    color: #ffb300;
+    color: #ffb300;   
+}
+
+.logo1 {
+    color: white   
 }
