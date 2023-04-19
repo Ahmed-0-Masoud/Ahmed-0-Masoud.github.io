@@ -9,3 +9,19 @@
 .logo1 {
     color: white   
 }
+
+.h1 {
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 1px 1px 2px #000, 0 0 25px yellow , 0 0 5px #fcd10f;
+}
+
+.p1 {
+    color: #777;
+    margin: 20px 0 70px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+    text-shadow: 1px 1px 2px #000, 0 0 25px #777 , 0 0 5px #777;
+}
