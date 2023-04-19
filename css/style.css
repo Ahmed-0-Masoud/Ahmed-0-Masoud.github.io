@@ -1,5 +1,6 @@
 .welkom {
     background-image: url(../img/Meteor.svg);
+    height: 100vh;
 }
 
 .logo {
@@ -24,4 +25,20 @@
     font-family: monospace;
     font-size: 15px;
     text-shadow: 1px 1px 2px #000, 0 0 25px #777 , 0 0 5px #777;
+}
+
+img {
+    width: 55%;
+    cursor: pointer;
+    transition: transform 0.5s;
+    border-radius: 50px;
+    border-bottom: 10px solid #000;
+    border-left: 10px solid #000;
+    flex-basis: 40%;
+
+}
+
+img:hover {
+    transform: translateY(-8px);
+
 }
