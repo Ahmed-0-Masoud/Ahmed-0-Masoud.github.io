@@ -1,0 +1,29 @@
+h1 {
+    color: white;
+}
+
+.discription {
+    height: 200px;
+    text-align: center;
+}
+
+.error { 
+    border: 1px solid red; 
+}
+
+
+.text-danger {
+    display: block;
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+a:hover {
+    color: white;
+}
